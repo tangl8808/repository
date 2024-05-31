@@ -1,35 +1,23 @@
 ## What’s changed
 
-## 🚀 Enhancements
-
-- Migrate JSON config to YAML @frenck (#340)
-- Rename add-on to Studio Code Server @frenck (#349)
-
 ## 🧰 Maintenance
 
-- ⬆️ Upgrade lock-threads workflow to 3.0.0 @frenck (#327)
-- Switch to centralized GitHub Action Workflows @frenck (#339)
+- 🎆 Updates maintenance/license year to 2024 @frenck ([#763](https://github.com/hassio-addons/addon-vscode/pull/763))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#308)
-- ⬆️ Upgrades add-on base image to v5.0.0 @frenck (#309)
-- ⬆️ Bump yamllint from 1.26.2 to 1.26.3 in /vscode @dependabot (#312)
-- ⬆️ Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#311)
-- ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#313)
-- ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#318)
-- ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#317)
-- ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 @dependabot (#325)
-- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 @dependabot (#330)
-- ⬆️ Upgrades locales to 2.31-13+deb11u2 @frenck (#337)
-- ⬆️ Upgrades mariadb-client to 1:10.5.12-0+deb11u1 @frenck (#338)
-- ⬆️ Upgrades add-on base image to 5.2.1 @frenck (#341)
-- ⬆️ Upgrades code-server to 3.12.0 @frenck (#342)
-- ⬆️ Upgrades add-on base image to 5.2.2 @frenck (#344)
-- ⬆️ Upgrades esbenp.prettier-vscode to 9.0.0 @frenck (#345)
-- ⬆️ Upgrades lukas-tr.materialdesignicons-intellisense to 3.3.0 @frenck (#346)
-- ⬆️ Upgrades Home Assistant CLI to v4.14.0 @frenck (#347)
-- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.22.0 @frenck (#348)
-- ⬆️ Upgrades usernamehw.errorlens to 3.4.0 @frenck (#350)
-- ⬆️ Upgrades oderwat.indent-rainbow to 8.2.2 @frenck (#351)
-- ⬆️ Upgrades redhat.vscode-yaml to 1.2.0 @frenck (#352)
+- ⬆️ Update esphome to v2023.11.0 @renovate ([#739](https://github.com/hassio-addons/addon-vscode/pull/739))
+- ⬆️ Update esphome to v2023.11.1 @renovate ([#741](https://github.com/hassio-addons/addon-vscode/pull/741))
+- ⬆️ Update emilast/vscode-logfile-highlighter to v2.17.0 @renovate ([#746](https://github.com/hassio-addons/addon-vscode/pull/746))
+- ⬆️ Update cdr/code-server to v4.19.0 @renovate ([#745](https://github.com/hassio-addons/addon-vscode/pull/745))
+- ⬆️ Update esphome to v2023.11.2 @renovate ([#744](https://github.com/hassio-addons/addon-vscode/pull/744))
+- ⬆️ Update esphome to v2023.11.3 @renovate ([#747](https://github.com/hassio-addons/addon-vscode/pull/747))
+- ⬆️ Update esphome to v2023.11.4 @renovate ([#748](https://github.com/hassio-addons/addon-vscode/pull/748))
+- ⬆️ Update esphome to v2023.11.6 @renovate ([#750](https://github.com/hassio-addons/addon-vscode/pull/750))
+- ⬆️ Update cdr/code-server to v4.19.1 @renovate ([#751](https://github.com/hassio-addons/addon-vscode/pull/751))
+- ⬆️ Update cdr/code-server to v4.20.0 @renovate ([#755](https://github.com/hassio-addons/addon-vscode/pull/755))
+- ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u2 @renovate ([#756](https://github.com/hassio-addons/addon-vscode/pull/756))
+- ⬆️ Update esphome to v2023.12.3 @renovate ([#754](https://github.com/hassio-addons/addon-vscode/pull/754))
+- ⬆️ Update esphome to v2023.12.5 @renovate ([#759](https://github.com/hassio-addons/addon-vscode/pull/759))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.0 @renovate ([#757](https://github.com/hassio-addons/addon-vscode/pull/757))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#760](https://github.com/hassio-addons/addon-vscode/pull/760))

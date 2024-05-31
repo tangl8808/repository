@@ -2,24 +2,15 @@
 
 ## 🚀 Enhancements
 
-- Migrate JSON config to YAML @frenck (#110)
+- Extend max query execution time to 1 hour @frenck ([#206](https://github.com/hassio-addons/addon-phpmyadmin/pull/206))
 
 ## 🧰 Maintenance
 
-- Switch to centralized GitHub Action Workflows @frenck (#109)
+- 🎆 Updates maintenance/license year to 2024 @frenck ([#205](https://github.com/hassio-addons/addon-phpmyadmin/pull/205))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#92)
-- ⬆️ Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#93)
-- ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#94)
-- ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#95)
-- ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#96)
-- ⬆️ Upgrades php8 to 8.0.11-r0 @frenck (#97)
-- ⬆️ Upgrades add-on base image to 10.1.0 @frenck (#98)
-- ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 @dependabot (#101)
-- ⬆️ Upgrades add-on base image to 10.1.1 @frenck (#103)
-- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 @dependabot (#104)
-- ⬆️ Upgrades php8 to 8.0.12-r0 @frenck (#108)
-- ⬆️ Upgrades add-on base image to 10.2.1 @frenck (#111)
-- ⬆️ Upgrades add-on base image to 10.2.2 @frenck (#112)
+- ⬆️ Update PHP to v8.1.26-r1 @renovate ([#201](https://github.com/hassio-addons/addon-phpmyadmin/pull/201))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.2 @renovate ([#202](https://github.com/hassio-addons/addon-phpmyadmin/pull/202))
+- ⬆️ Update PHP to v8.1.27-r0 @renovate ([#203](https://github.com/hassio-addons/addon-phpmyadmin/pull/203))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 @renovate ([#204](https://github.com/hassio-addons/addon-phpmyadmin/pull/204))

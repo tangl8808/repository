@@ -1,14 +1,10 @@
 ## What’s changed
 
-## 🧰 Maintenance
-
-- Set minimum node version to 12 @bonanitech (#1176)
-
 ## ⬆️ Dependency updates
 
-- Bump node-red-node-pi-gpio from 1.2.3 to 2.0.0 in /node-red @dependabot (#1173)
-- Bump node-red-contrib-modbus from 5.14.1 to 5.15.0 in /node-red @dependabot (#1179)
-- Bump node-red-node-serialport from 0.14.1 to 0.15.0 in /node-red @dependabot (#1180)
-- Bump node-red-node-pi-gpio from 2.0.0 to 2.0.1 in /node-red @dependabot (#1181)
-- ⬆️ Upgrades nginx to 1.20.2-r0 @frenck (#1184)
-- ⬆️ Upgrades add-on base image to 10.2.3 @frenck (#1184)
+- ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.0 @renovate ([#1867](https://github.com/hassio-addons/addon-node-red/pull/1867))
+- ⬆️ Update node-red to v3.1.9 @renovate ([#1869](https://github.com/hassio-addons/addon-node-red/pull/1869))
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.63.2 @renovate ([#1868](https://github.com/hassio-addons/addon-node-red/pull/1868))
+- ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.1 @renovate ([#1870](https://github.com/hassio-addons/addon-node-red/pull/1870))
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.64.0 @renovate ([#1871](https://github.com/hassio-addons/addon-node-red/pull/1871))
+- ⬆️ Update alpine_3_19/python3-dev to v3.11.9-r0 @renovate ([#1873](https://github.com/hassio-addons/addon-node-red/pull/1873))

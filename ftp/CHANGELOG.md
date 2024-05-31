@@ -1,23 +1,11 @@
 ## What’s changed
 
-## 🚀 Enhancements
-
-- Migrate JSON config to YAML @frenck (#101)
-
-## 🧰 Maintenance
-
-- Switch to centralized GitHub Action Workflows @frenck (#100)
-
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#84)
-- ⬆️ Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#85)
-- ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#86)
-- ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#88)
-- ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#89)
-- ⬆️ Upgrades openssl to 1.1.1l-r0 @frenck (#90)
-- ⬆️ Upgrades add-on base image to 10.1.0 @frenck (#91)
-- ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 @dependabot (#94)
-- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 @dependabot (#96)
-- ⬆️ Upgrades add-on base image to 10.2.0 @frenck (#102)
-- ⬆️ Upgrades add-on base image to 10.2.2 @frenck (#103)
+- ⬆️ Update alpine_3_19/openssl to v3.1.4-r3 @renovate ([#175](https://github.com/hassio-addons/addon-ftp/pull/175))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.4 @renovate ([#176](https://github.com/hassio-addons/addon-ftp/pull/176))
+- ⬆️ Update alpine_3_19/openssl to v3.1.4-r4 @renovate ([#177](https://github.com/hassio-addons/addon-ftp/pull/177))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.5 @renovate ([#178](https://github.com/hassio-addons/addon-ftp/pull/178))
+- ⬆️ Update alpine_3_19/openssl to v3.1.4-r5 @renovate ([#180](https://github.com/hassio-addons/addon-ftp/pull/180))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.6 @renovate ([#181](https://github.com/hassio-addons/addon-ftp/pull/181))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.7 @renovate ([#183](https://github.com/hassio-addons/addon-ftp/pull/183))

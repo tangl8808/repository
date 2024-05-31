@@ -1,27 +1,23 @@
 ## What’s changed
 
-## 🚀 Enhancements
+It is finally here! The add-on wraps the first beta version of the long-awaited new motionEye release 🎉 
 
-- Migrate JSON config to YAML @frenck (#319)
+## 🐛 Bug fixes
+
+- Fix migration scripts @frenck ([#454](https://github.com/hassio-addons/addon-motioneye/pull/454))
 
 ## 🧰 Maintenance
 
-- ⬆️ Upgrade lock-threads workflow to 3.0.0 @frenck (#309)
-- Switch to centralized GitHub Action Workflows @frenck (#318)
+- 🎆 Updates maintenance/license year to 2024 @frenck ([#452](https://github.com/hassio-addons/addon-motioneye/pull/452))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump singledispatch from 3.6.2 to 3.7.0 in /motioneye @dependabot (#290)
-- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#293)
-- ⬆️ Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#294)
-- ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#295)
-- ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#299)
-- ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#298)
-- ⬆️ Upgrades add-on base image to 10.1.0 @frenck (#303)
-- ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 @dependabot (#306)
-- ⬆️ Bump pillow from 6.2.2 to 8.4.0 in /motioneye @dependabot (#312)
-- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 @dependabot (#311)
-- ⬇️ Downgrade pillow to 6.2.2 @frenck (#316)
-- ⬆️ Upgrades ffmpeg to 4.4.1-r0 @frenck (#317)
-- ⬆️ Upgrades add-on base image to 10.2.0 @frenck (#320)
-- ⬆️ Upgrades add-on base image to 10.2.2 @frenck (#323)
+- ⬆️ Update alpine_3_17/git to v2.38.5-r0 @renovate ([#421](https://github.com/hassio-addons/addon-motioneye/pull/421))
+- ⬆️ Update alpine_3_17/musl-dev to v1.2.3-r5 @renovate ([#428](https://github.com/hassio-addons/addon-motioneye/pull/428))
+- ⬆️ Update alpine_3_17/python3-dev to v3.10.12-r0 @renovate ([#433](https://github.com/hassio-addons/addon-motioneye/pull/433))
+- ⬆️ Update alpine_3_17/python3 to v3.10.12-r0 @renovate ([#432](https://github.com/hassio-addons/addon-motioneye/pull/432))
+- ⬆️ Update alpine_3_17/libwebp to v1.2.4-r2 @renovate ([#429](https://github.com/hassio-addons/addon-motioneye/pull/429))
+- ⬆️ Update alpine_3_17/libwebp-dev to v1.2.4-r2 @renovate ([#430](https://github.com/hassio-addons/addon-motioneye/pull/430))
+- ⬆️ Update alpine_3_17/curl-dev to v8.1.2-r0 @renovate ([#427](https://github.com/hassio-addons/addon-motioneye/pull/427))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15 @renovate ([#426](https://github.com/hassio-addons/addon-motioneye/pull/426))
+- ⬆️ Upgrades motionEye to 0.43.1b1 @frenck ([#453](https://github.com/hassio-addons/addon-motioneye/pull/453))

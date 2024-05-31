@@ -1,30 +1,11 @@
 ## What’s changed
 
-## 🐛 Bug fixes
-
-- 🐛 Fix events selection query @jonathanadams (#133)
-- Replace depreciated class com.mysql.jdbc.Driver @justinmbrock (#122)
-- Fix HTTP 415 unsupported media bug @frenck (#156)
-
-## 🚀 Enhancements
-
-- Migrate JSON config to YAML @frenck (#153)
-
-## 🧰 Maintenance
-
-- ⬆️ Upgrade lock-threads workflow to 3.0.0 @frenck (#145)
-- Switch to centralized GitHub Action Workflows @frenck (#152)
-
 ## ⬆️ Dependency updates
 
-- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#134)
-- ⬆️ Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#135)
-- ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#136)
-- ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#138)
-- ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#139)
-- ⬆️ Upgrades add-on base image to 10.1.0 @frenck (#140)
-- ⬆️ Upgrades Traccar to v4.14 @frenck (#141)
-- ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 @dependabot (#144)
-- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 @dependabot (#146)
-- ⬆️ Upgrades add-on base image to 10.2.1 @frenck (#154)
-- ⬆️ Upgrades add-on base image to 10.2.2 @frenck (#155)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.5 @renovate ([#278](https://github.com/hassio-addons/addon-traccar/pull/278))
+- ⬆️ Update alpine_3_19/openjdk11-jre-headless to v11.0.22_p7-r0 @renovate ([#279](https://github.com/hassio-addons/addon-traccar/pull/279))
+- ⬆️ Update alpine_3_19/nss to v3.97-r0 @renovate ([#281](https://github.com/hassio-addons/addon-traccar/pull/281))
+- ⬆️ Update alpine_3_19/mariadb-client to v10.11.6-r0 @renovate ([#282](https://github.com/hassio-addons/addon-traccar/pull/282))
+- ⬆️ Update traccar/traccar to v5.12 @renovate ([#283](https://github.com/hassio-addons/addon-traccar/pull/283))
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 @renovate ([#284](https://github.com/hassio-addons/addon-traccar/pull/284))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.6 @renovate ([#285](https://github.com/hassio-addons/addon-traccar/pull/285))
